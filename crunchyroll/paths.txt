@@ -1,3 +1,0 @@
-/data/app/~~E7gwgv29REDzY-Y5WnP1cw==/com.crunchyroll.crunchyroid-FBOq24JFHo_Z8S4J85xkOA==/base.apk
-/data/app/~~E7gwgv29REDzY-Y5WnP1cw==/com.crunchyroll.crunchyroid-FBOq24JFHo_Z8S4J85xkOA==/split_config.mdpi.apk
-/data/app/~~E7gwgv29REDzY-Y5WnP1cw==/com.crunchyroll.crunchyroid-FBOq24JFHo_Z8S4J85xkOA==/split_config.x86_64.apk
