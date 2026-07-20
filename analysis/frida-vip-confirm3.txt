@@ -1,0 +1,9 @@
+[VIP-UNLOCK] VIP FORCED ON. The V() getter now returns true globally.
+TypeError: cannot read property 'V' of undefined
+    at <anonymous> (/home/bld/moviebox/analysis/frida-vip-unlock3.js:22)
+    at <anonymous> (/frida/bridges/java.js:1)
+    at _performPendingVmOps (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:8)
+    at apply (native)
+    at <anonymous> (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:8)

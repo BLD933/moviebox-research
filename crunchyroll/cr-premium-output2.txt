@@ -1,0 +1,7 @@
+[CR-PREMIUM] loaded
+[CR-PREMIUM] hooked BenefitKt
+[CR-PREMIUM] hooked Benefit.getBenefit
+[CR-PREMIUM] hooked PlayableAsset.isPremiumOnly
+[CR-PREMIUM] hooked getUserBenefits(qt0.e)
+[CR-PREMIUM] hooked getSubscriptionStatus
+[CR-PREMIUM] hooks installed. Trigger: open profile, play an episode, or pull-to-refresh.

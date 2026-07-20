@@ -1,0 +1,13 @@
+[VIP-TRACE] script loaded, pid= 23351
+[VIP-TRACE] HOOK FAIL cl.u a a(): specified argument types do not match any of:
+	.overload('gn.c')
+[VIP-TRACE] hooks installed. Open the VIP / Settings screen, or log in, to trigger.
+[VIP-TRACE] BffGetVipUserInfoData.isVip() -> false | uid= 6008541102754751648 userType= 0 vipExpireAt= 0 vipRemainingSeconds= 0
+[VIP-TRACE] vipState.c(isVip= false )  <-- premium state SET (server-driven)
+[VIP-TRACE] BffGetVipUserInfoData.isVip() -> false | uid= 6008541102754751648 userType= 0 vipExpireAt= 0 vipRemainingSeconds= 0
+[VIP-TRACE] TvServiceLocator.V() -> false
+[VIP-TRACE] TvServiceLocator.V() -> false
+[VIP-TRACE] BffGetVipUserInfoData.isVip() -> false | uid= 6008541102754751648 userType= 0 vipExpireAt= 0 vipRemainingSeconds= 0
+[VIP-TRACE] vipState.c(isVip= false )  <-- premium state SET (server-driven)
+[VIP-TRACE] BffGetVipUserInfoData.isVip() -> false | uid= 6008541102754751648 userType= 0 vipExpireAt= 0 vipRemainingSeconds= 0
+[VIP-TRACE] TvServiceLocator.V() -> false

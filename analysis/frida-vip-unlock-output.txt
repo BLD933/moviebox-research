@@ -1,0 +1,3 @@
+[VIP-UNLOCK] loaded, pid= 23954
+[VIP-UNLOCK] VIP FORCED ON (session only). Open the VIP screen / any gated feature.
+[VIP-UNLOCK] vipState.c( false ) -> forcing TRUE

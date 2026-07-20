@@ -1,0 +1,4 @@
+*.apk
+*.jadx
+backup.ab
+jadx_out/

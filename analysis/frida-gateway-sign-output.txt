@@ -1,0 +1,129 @@
+[GW-SIGN] loaded, pid= 9232
+[GW-SIGN] doGzipOrSign overloads: okhttp3.w
+[GW-SIGN] gateway signing hooks installed. Open the app / browse to trigger BFF requests.
+[GW-SIGN] canonicalizeQuery('keys=sa_show_no_subtitle_tips,subtitle_search_opensub,subtitle_language,key_network_quality_interceptor_enable,key_tv_global_dpad_throttle_ab,pull_notification_deadline,resolution_previw,sb_player_type,movie_preview_seconds,tv_live_premium_preview_time,lowMemoryValue,pk_player_ui_key,download_buffer_size,key_tv_global_dpad_throttle_interval_ms,tv_preview_ep,keyAliveOff,point_config,keyBackgroundReportOff,clientLogsRetrieve,download_error_opt_off,player_async,downloadRangeSize,app_center_switch,play_mode,shorts_tab_in_for_you,vipFissionOn,dr_config&version=40c6bf') -> keys=sa_show_no_subtitle_tips,subtitle_search_opensub,subtitle_language,key_network_quality_interceptor_enable,key_tv_global_dpad_throttle_ab,pull_notification_deadline,resolution_previw,sb_player_type,movie_preview_seconds,tv_live_premium_preview_time,lowMemoryValue,pk_player_ui_key,download_buffer_size,key_tv_global_dpad_throttle_interval_ms,tv_preview_ep,keyAliveOff,point_config,keyBackgroundReportOff,clientLogsRetrieve,download_error_opt_off,player_async,downloadRangeSize,app_center_switch,play_mode,shorts_tab_in_for_you,vipFissionOn,dr_config&version=40c6bf
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409365273
+
+/wefeed-tv-bff/app/config?keys=sa_show_no_subtitle_tips,subtitle_search_opensub,subtitle_language,key_network_quality_interceptor_enable,key_tv_global_dpad_throttle_ab,pull_notification_deadline,resolution_previw,sb_player_type,movie_preview_seconds,tv_live_premium_preview_time,lowMemoryValue,pk_player_ui_key,download_buffer_size,key_tv_global_dpad_throttle_interval_ms,tv_preview_ep,keyAliveOff,point_config,keyBackgroundReportOff,clientLogsRetrieve,download_error_opt_off,player_async,downloadRangeSize,app_center_switch,play_mode,shorts_tab_in_for_you,vipFissionOn,dr_config&version=40c6bf
+[GW-SIGN] -> sig(base64) = T7LUMswW3LBRCqLnE8VH6w==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+POST
+
+application/json; charset=UTF-8
+2
+1784409365365
+99914b932bd37a50b983c5e7c90ae93b
+/wefeed-tv-bff/user/visitor-login
+[GW-SIGN] -> sig(base64) = H5Zt8MJoHrXpo6Y4Yfr4Nw==
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409365357
+
+/wefeed-tv-bff/user/info
+[GW-SIGN] -> sig(base64) = zqFo5aFz0GeEt6xTWSREsA==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] canonicalizeQuery('version=4222948011&versionAdScene=0&withAdScene=true&projectId=movie_tv') -> projectId=movie_tv&version=4222948011&versionAdScene=0&withAdScene=true
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409365925
+
+/open-api/ad/config?projectId=movie_tv&version=4222948011&versionAdScene=0&withAdScene=true
+[GW-SIGN] -> sig(base64) = f5rN+lKI2M8w6RCQdnyDtw==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409366139
+
+/wefeed-tv-bff/tab/list
+[GW-SIGN] -> sig(base64) = jC+ZBzjIKywgo9I1DuSinA==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409366256
+
+/wefeed-tv-bff/sport/aggregate-v1
+[GW-SIGN] -> sig(base64) = y1kDrT3r0Amoq/u37aT+Xw==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409366269
+
+/wefeed-tv-bff/home/operating
+[GW-SIGN] -> sig(base64) = Xg89GfLSsCwxCyMIT5yfHw==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409366581
+
+/wefeed-tv-bff/sport/aggregate-v1
+[GW-SIGN] -> sig(base64) = j59ufaLQdi6qveE4TBwfXA==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409366589
+
+/wefeed-tv-bff/home/operating
+[GW-SIGN] -> sig(base64) = 0D2Co/UTl85X/0h2f+y18Q==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] canonicalizeQuery('basePkgMd5=') -> basePkgMd5=
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409366900
+
+/wefeed-tv-bff/app/check-update?basePkgMd5=
+[GW-SIGN] -> sig(base64) = ES2YeDjY/sqdm8xZsdt+yQ==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] ==== HMAC HmacMD5 ====
+[GW-SIGN] canonical-string =
+GET
+
+
+
+1784409367958
+
+/wefeed-tv-bff/search/rank
+[GW-SIGN] -> sig(base64) = ACVGrOHS4qNNeneeI/Flrw==
+[GW-SIGN] hdr read err: not a function
+[GW-SIGN] getSecret() = "76iRl07s0xSN9jqmEWAt79EBJZulIQIsV64FZr2O"
+[GW-SIGN] getWorkMode() = MODE_ONLINE | getHost() = apigateway.tmctool.com

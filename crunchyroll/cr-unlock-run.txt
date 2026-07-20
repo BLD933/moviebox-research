@@ -1,0 +1,7 @@
+[CR-UNLOCK] loaded — client-only in-memory patch (session-only)
+[CR-UNLOCK] patched BenefitKt.isPremium -> true
+[CR-UNLOCK] patched BenefitKt.isUltimateFanUser -> true
+[CR-UNLOCK] patched PlayableAsset.isPremiumOnly -> false
+[CR-UNLOCK] patches installed. UI may now *show* premium state locally; real streams are still server-gated.
+[CR-UNLOCK] isUltimateFanUser(list size=0) -> FORCING true
+[CR-UNLOCK] isUltimateFanUser(list size=0) -> FORCING true

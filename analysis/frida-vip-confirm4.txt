@@ -1,0 +1,10 @@
+Error: V: cannot call instance method without an instance
+    at value (/frida/bridges/java.js:8)
+    at e (/frida/bridges/java.js:8)
+    at <anonymous> (/home/bld/moviebox/analysis/frida-vip-unlock4.js:20)
+    at <anonymous> (/frida/bridges/java.js:1)
+    at _performPendingVmOps (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:8)
+    at apply (native)
+    at <anonymous> (/frida/bridges/java.js:8)
+    at <anonymous> (/frida/bridges/java.js:8)
